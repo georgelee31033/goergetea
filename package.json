@@ -1,9 +1,9 @@
 {
   "name": "@georgelee31033/goergetea",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Quest for tea.xyz",
   "main": "index.js",
   "author": "@georgelee31033",
-  "repository": "https://github.com/georgelee31033/goergetea/goergetea.git",
-  "license": "ISC"
+  "repository": "https://github.com/georgelee31033/goergetea.git",
+  "license": "MIT"
 }

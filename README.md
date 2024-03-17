@@ -1,2 +1,2 @@
-# goergetea
-Quest tea of George
+# dieutea
+Tea quest for Dieu
